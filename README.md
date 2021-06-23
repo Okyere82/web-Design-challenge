@@ -4,19 +4,7 @@
 
 Data is more powerful when we share it with others! Let's take what we've learned about HTML and CSS to create a dashboard showing off the analysis we've done.
 
-![Images/landingResize.png](Images/landingResize.png)
 
-### Before You Begin
-
-1. Create a new repository for this project called `Web-Design-Challenge`. **Do not add this homework to an existing repository**.
-
-2. Clone the new repository to your computer.
-
-3. Inside your local git repository, add your **html** files, as well as your **static** folder. Your `index.html` should be the landing page that the user first sees. DO NOT keep your files inside the Starter Files folder. Copy them out and put them directly in your repository. `index.html` must be at the top level of your repository (not in any subdirectory)
-
-4. Push the above changes to GitHub or GitLab.
-
-5. Deploy to GitHub Pages.
 
 ## Latitude - Latitude Analysis Dashboard with Attitude
 
